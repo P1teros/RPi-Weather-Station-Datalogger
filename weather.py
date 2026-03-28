@@ -1,6 +1,7 @@
 import adafruit_dht
 import time
 import board
+from datetime import time
 
 dhtDevice = adafruit_dht.DHT22(board.D4)
 
