@@ -22,5 +22,5 @@ while True:
                 dhtDevice.exit()
                 raise error
 
-        time.sleep(30.0)
+        time.sleep(15.0)
 
