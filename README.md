@@ -13,7 +13,7 @@ An embedded IoT system for real-time temperature and humidity monitoring using R
 * *(Work in Progress)* **LCD 1602 Display** for local data visualization.
 
 ## Database Schema
-The data is stored locally in `pogoda.db` using the following structure:
+The data is stored locally in `weather_data.db` using the following structure:
 
 | Column | Type | Description |
 | :--- | :--- | :--- |
