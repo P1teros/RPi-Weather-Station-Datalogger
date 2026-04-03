@@ -3,7 +3,7 @@ An embedded IoT system for real-time temperature and humidity monitoring using R
 ## Features
 * **Real-Time Data Collection:** Reads temperature and humidity using the DHT22 sensor.
 * **Fault Tolerance:** Includes built-in error handling (`try-except`) to ignore sensor connection drops or timing issues, ensuring database integrity.
-* **Local Data Logging:** Automatically logs valid data with exact timestamps into a lightweight SQLite database (`pogoda.db`).
+* **Local Data Logging:** Automatically logs valid data with exact timestamps into a lightweight SQLite database (`weather_data.db`).
 * **Headless Operation:** Designed to run in the background as a continuous data logger.
 
 ## Hardware Components
